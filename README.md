@@ -10,7 +10,9 @@ Welcome to [My Homepage](https://github.com/look-007)View more projects.
 
 # 中文
 ## 致以我的朋友们
-很高兴你能在这里找到我，如果你发现了我，还请告诉我，愿所愿皆如愿，顺遂安康。
+很高兴你能在这里找到我，如果你发现了我，还请告诉我。
+
+愿所愿皆如愿，顺遂安康。
 ## 识别这个账号
 𝓗𝓲𝓵𝔂𝓲𝓷𝓰 Ⓗ 2024-2026 look-007.Personal Account Mark.
 ## 备注
