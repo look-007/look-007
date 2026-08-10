@@ -1,6 +1,6 @@
 # Hello, nice to meet you.✋
 
-# English - [（中文版本）](https://github.com/look-007/look-007#%E4%B8%AD%E6%96%87)
+# English Version▕ [中文版本](https://github.com/look-007/look-007#%E4%B8%AD%E6%96%87)
 ## To my friends
 I'm glad you found me here. If you have discovered me, please let me know. May all your wishes come true, and may you enjoy peace and well-being.
 ## Account Identifier
