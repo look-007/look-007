@@ -1,6 +1,6 @@
 # Hello, nice to meet you.✋
 
-# English[中文版本](https://github.com/look-007/look-007/blob/83643a260deb36f1eaeb66d70e426d1ac631ecc8/README.md#%E4%B8%AD%E6%96%87)
+# English（[中文版本](https://github.com/look-007/look-007/blob/83643a260deb36f1eaeb66d70e426d1ac631ecc8/README.md#%E4%B8%AD%E6%96%87)）
 ## To my friends
 I'm glad you found me here. If you have discovered me, please let me know. May all your wishes come true, and may you enjoy peace and well-being.
 ## Account Identifier
@@ -26,3 +26,8 @@ Welcome to [My Homepage](https://github.com/look-007)View more projects.
 [王者荣耀](https://pvp.qq.com/m/)
 ### 我的世界（网易代理_移动端）
 [我的世界](https://mc.163.com/)
+
+# 宣发(Announcement)
+声明：以下信息由第三方提供，我方不做任何保证请浏览时保持谨慎，谨防电信网络诈骗。
+Disclaimer: The following information is provided by a third party, and we make no guarantees. Please exercise caution when browsing and be vigilant against telecom and online fraud.
+### ！这个人很懒，什么也没有留下。
