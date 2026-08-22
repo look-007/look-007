@@ -1,3 +1,18 @@
+# 
+
+<p align="center">
+  <a href=""><img src="./ICON.png" width="160" alt="KuroCos ICON"></a>
+</p>
+
+<h1 align="center">KuroCos</h1>
+<h4 align="center">✨ 基于 GsCore 框架的多游戏「COS / 同人」搬运插件 ✨</h4>
+
+<div align="center">
+  <a href="https://github.com/Genshin-bots/gsuid_core">早柚核心</a> &nbsp;·&nbsp;
+  <a href="https://github.com/MimoKit/KuroCos/issues">问题反馈</a>
+</div>
+
+<br/>
 # Hello, nice to meet you.✋
 
 # English Version▕ [中文版本](https://github.com/look-007/look-007#%E4%B8%AD%E6%96%87)
