@@ -4,7 +4,7 @@
   <a href=""><img src="./ICON.png" width="160" alt="Feixinxueron"></a>
 </p>
 
-<h1 align="center">KuroCos</h1>
+<h1 align="center">Look_007</h1>
 <h4 align="center">🍀 所愿皆成 🍀</h4>
 
 <div align="center">
