@@ -35,13 +35,13 @@ Welcome to [My Homepage](https://github.com/look-007)View more projects.
 
 如果发现了错误，欢迎指正。
 # 更多
-### 鸣潮（国服）
+### 鸣潮（中国服）
 [鸣潮](https://mc.kurogames.com/m/main)
 
 [云·鸣潮](https://mc.kurogames.com/cloud/#/)
-### 王者荣耀（国服）
+### 王者荣耀（中国服）
 [王者荣耀](https://pvp.qq.com/m/)
-### 我的世界（网易代理_移动端）
+### 我的世界（中国网易代理_移动端）
 [我的世界](https://mc.163.com/)
 
 # 宣发(Announcement)
