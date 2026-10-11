@@ -1,14 +1,14 @@
 # 
 
 <p align="center">
-  <a href=""><img src="./ICON.png" width="160" alt="Feixinxueron"></a>
+  <a href=""><img src="https://github.com/look-007/look-007/blob/main/Picture%20_%202026642523.jpg" width="160" alt="Feixinxueron"></a>
 </p>
 
 <h1 align="center">Look_007</h1>
 <h4 align="center">🍀 所愿皆成 🍀</h4>
 
 <div align="center">
-  <a href="https://github.com/MimoKit/KuroCos/issues">问题反馈</a>
+  <a href="https://github.com/look-007/Mingchao_Change-programming-language/issues">问题反馈</a>
 </div>
 
 <br/>
